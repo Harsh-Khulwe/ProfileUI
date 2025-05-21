@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="Name">andaz kumar</string>
+    <string name="Membership_period">member since Dec, 2020</string>
+    <string name="garage_text">get to know your vehicles, inside out</string>
+    <string name="credit_score_text">credit score • REFRESH AVAILABLE</string>
+    <string name="credit_score">Credit Score</string>
+    <string name="score_of_credit">757</string>
+    <string name="right_arrow_image">right arrow image</string>
+    <string name="right_keyboard_arrow_image">right keyboard arrow image</string>
+    <string name="rupee_symbol">Rupee Symbol</string>
+    <string name="lifetime_cashback">lifetime cashback</string>
+    <string name="_3">₹3</string>
+    <string name="bank_balance">bank balance</string>
+    <string name="check">check</string>
+    <string name="your_rewards_benefits"><![CDATA[YOUR REWARDS & BENEFITS]]></string>
+    <string name="bank_image">Bank Image</string>
+    <string name="cashback_balance">cashback balance</string>
+    <string name="_0">₹0</string>
+    <string name="coins">coins</string>
+    <string name="_26_46_583">26,46,583</string>
+    <string name="win_upto_rs_1000">win upto Rs 1000</string>
+    <string name="refer_and_earn">refer and earn</string>
+    <string name="transactions_support"><![CDATA[TRANSACTIONS & SUPPORT]]></string>
+    <string name="car_icon">car icon</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="edit_circle">edit circle</string>
+    <string name="cred_garage">CRED garage</string>
+</resources>
